@@ -53,7 +53,7 @@ This project structure organizes the DynamoDB GSI Updater solution into standard
 
    ```bash
    git clone <repository-url>
-   cd my-cdk-project
+   cd DDB-multiGSICustomResource
    ```
 2. **Install Dependencies:**
    
